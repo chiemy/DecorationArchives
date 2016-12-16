@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DecorationArchives</string>
+    <string name="h1"/>
+
+    <string name="door">木门</string>
+    <string name="tiles">瓷砖</string>
+    <string name="cupboard">橱柜</string>
+    <string name="bathroom">卫浴</string>
+    <string name="ceiling">集成吊顶</string>
+    <string name="furniture">家具</string>
+    <string name="light">灯具</string>
+    <string name="floor">地板</string>
+    <string name="air_conditioner">空调</string>
+    <string name="curtain">窗帘</string>
+    <string name="cooker_hood">油烟机</string>
+    <string name="water_heater">热水器</string>
+    <string name="paint">油漆</string>
+    <string name="air_cleaner">新风系统及空气净化器</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_names">
+        <item>@string/door</item>
+        <item>@string/tiles</item>
+        <item>@string/cupboard</item>
+        <item>@string/bathroom</item>
+        <item>@string/ceiling</item>
+        <item>@string/furniture</item>
+        <item>@string/light</item>
+        <item>@string/floor</item>
+        <item>@string/air_conditioner</item>
+        <item>@string/curtain</item>
+        <item>@string/cooker_hood</item>
+        <item>@string/water_heater</item>
+        <item>@string/paint</item>
+        <item>@string/air_cleaner</item>
+    </string-array>
+    <string-array name="category_ids">
+        <item>door</item>
+        <item>tiles</item>
+        <item>cupboard</item>
+        <item>bathroom</item>
+        <item>ceiling</item>
+        <item>furniture</item>
+        <item>light</item>
+        <item>floor</item>
+        <item>air_conditioner</item>
+        <item>curtain</item>
+        <item>cooker_hood</item>
+        <item>water_heater</item>
+        <item>paint</item>
+        <item>air_cleaner</item>
+    </string-array>
+</resources>
